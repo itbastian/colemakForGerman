@@ -1,0 +1,3 @@
+# see http://stackoverflow.com/questions/777949/can-i-make-git-recognize-a-utf-16-file-as-text
+[attr]utf16 diff merge -crlf
+*.klc	utf16
